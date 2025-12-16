@@ -1,7 +1,7 @@
 # In Search of the Causal Greenium
 This repo contains supplementary material to the paper "In Search of the Causal Greenium".
 
-- **Draft on SSRN**: see []
+- **Draft on SSRN**: see [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929974](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5929974)
 - Internet Appendix: see folder *Internet Appendix*
 
 Please cite the paper as
@@ -10,7 +10,7 @@ Please cite the paper as
 @article{causal_greenium_prw,
   title={In Search of the Causal Greenium},
   author={Pasler, Alexander and Rodenkirchen, Moritz and Weiss, Patrick}
-  journal={Available at SSRN x}
+  journal={Available at SSRN 5929974}
   year={2025}
 }
 ```
