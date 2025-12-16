@@ -1,5 +1,5 @@
 # In Search of the Causal Greenium
-This repo contains supplementary material to the paper "In Search of the Causal Greenium"
+This repo contains supplementary material to the paper "In Search of the Causal Greenium".
 
 - **Draft on SSRN**: see []
 - Internet Appendix: see folder *Internet Appendix*
